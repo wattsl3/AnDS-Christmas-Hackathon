@@ -1,3 +1,4 @@
+# pylint: disable=no-member
 """ Merry Christmas """
 
 import seaborn as sns
